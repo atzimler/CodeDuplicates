@@ -3,6 +3,9 @@ using NUnit.Framework;
 
 namespace CodeDuplicates
 {
+    /// <summary>
+    /// This is still not detected as duplicate code. I'm really bad at writing duplicated codes :D. Let's try copy paste a larger block.
+    /// </summary>
     [TestFixture]
     public class TestCodeDuplication
     {
