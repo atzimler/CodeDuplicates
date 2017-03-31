@@ -31,6 +31,9 @@ namespace CCMTest
 
         public void Ccm2_YesThisIsStillCcm2()
         {
+            // To detect this, the tool needs advanced analyzes into the parameter of the function.
+            // In case this is a problem in the quality, it can be easily extracted to the function, so it's not a big issue,
+            // but this is still CCM 2.
             var random = new Random();
             var number = random.Next();
 
