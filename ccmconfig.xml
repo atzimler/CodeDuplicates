@@ -1,6 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ccm>
-  <analyze>.</analyze>
+  <analyze>
+    <folder>.</folder>
+  </analyze>
   <recursive>yes</recursive>
   <outputter>XML</outputter>
   <threshold>1</threshold>
