@@ -1,12 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.26228.4
+VisualStudioVersion = 15.0.26228.12
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeDuplicates", "CodeDuplicates\CodeDuplicates.csproj", "{8F3DFA50-5E86-4DBF-B871-8166E3924027}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{AF6410E1-C0DE-4266-B818-664B636E5D27}"
 	ProjectSection(SolutionItems) = preProject
+		ccmconfig.xml = ccmconfig.xml
 		LICENSE.txt = LICENSE.txt
 	EndProjectSection
 EndProject
